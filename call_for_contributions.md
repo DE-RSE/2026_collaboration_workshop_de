@@ -15,7 +15,7 @@ Contributions to the Collaborations Workshop can fall into the following categor
 
 * **Research Software Craftsmanship**: e.g. CI/CD, testing, documentation, software metadata, licensing
 * **RSE Education** e.g. curriculum development, teaching best practices, Open educational resources
-* **Open Science** e.g. RSE aspects of Open Access like Open methodology, Open source, Open data, Open access, Open peer review
+* **Open Science** e.g. RSE aspects of Open Science like Open methodology, Open source, Open data, Open access, Open peer review
 * **Data Science & AI** e.g. best practices for ML/AI, note that there is also the dedicated co-located [Workshop on AI-supported Research Software Engineering](https://events.hifis.net/event/3249/page/968-workshop-on-ai-supported-research-software-engineering)
 * **RSE Communities**: e.g. local RSE charters, community management, RSE event planning, deRSE association activities
 * **Policy Making**: e.g. institutional research software policies, ethical aspects of RSE, position papers
