@@ -1,0 +1,20 @@
+name: Lightning Talk
+description: Use this to contribute a lightning talk.
+title: "[Lightning Talk] "
+labels:
+  - "contribution"
+  - "lightning-talk"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in contributing a lightning talk! Please fill out the details below.
+        The title of your talk should go into the issue title.
+  
+  - type: input
+    id: presenter
+    attributes:
+      label: "Presenter"
+      description: "State your name and affiliation."
+      placeholder: |
+        "Max Mustermann, Example Institute, Example University, Germany"
