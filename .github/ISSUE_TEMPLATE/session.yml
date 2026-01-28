@@ -48,6 +48,7 @@ body:
         - "150 minutes"
         - "180 minutes (2x90 minutes)"
         - "Other (specify in the session format section)"
+      default: 0
 
   - type: textarea
     id: requirements
