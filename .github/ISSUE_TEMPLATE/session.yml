@@ -17,8 +17,8 @@ body:
       label: "Organizers"
       description: "List the names, affiliation and GitHub handles of the session organizers."
       placeholder: |
-        "Max Mustermann, Example Institute, Example University, Germany, @maxmustermann"
-        "..."
+        Max Mustermann, Example Institute, Example University, Germany, @maxmustermann
+        ...
   
   - type: textarea
     id: content
@@ -44,14 +44,10 @@ body:
       label: "Session Duration"
       description: "Select the expected duration of the session."
       options:
-        - label: "90 minutes"
-          value: "90 minutes"
-        - label: "150 minutes"
-          value: "150 minutes"
-        - label: "180 minutes"
-          value: "180 minutes (2x90 minutes)"
-        - label: "Other"
-          value: "Other (specify in the session format section)"
+        - "90 minutes"
+        - "150 minutes"
+        - "180 minutes (2x90 minutes)"
+        - "Other (specify in the session format section)"
 
   - type: textarea
     id: requirements
