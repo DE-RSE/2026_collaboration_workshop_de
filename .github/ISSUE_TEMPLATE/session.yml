@@ -1,0 +1,63 @@
+name: Collaboration Session
+description: Use this to contribute a collaboration session.
+title: "[Session] "
+labels:
+  - "contribution"
+  - "collaboration-session"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in contributing a collaboration session! Please fill out the details below.
+        Don't forget to write a descriptive title for your session in the issue title.
+  
+  - type: textarea
+    id: organizers
+    attributes:
+      label: "Organizers"
+      description: "List the names, affiliation and GitHub handles of the session organizers."
+      placeholder: |
+        Max Mustermann, Example Institute, Example University, Germany, @maxmustermann
+        ...
+  
+  - type: textarea
+    id: content
+    attributes:
+      label: "Session Description"
+      description: "Provide a brief description of the session content and objectives, like you normally would in a conference abstract. Please write no more than 200 words, less it totally fine."
+  
+  - type: textarea
+    id: format
+    attributes:
+      label: "Session Format"
+      description: "Describe the format of the session (e.g., workshop, panel discussion, hackathon, etc.) and how you plan to foster collaboration."
+
+  - type: textarea
+    id: outputs
+    attributes:
+      label: "Tangible Outputs"
+      description: "Describe tangible outputs of the session and potential plans for sharing them with the community."
+  
+  - type: dropdown
+    id: duration
+    attributes:
+      label: "Session Duration"
+      description: "Select the expected duration of the session."
+      options:
+        - "90 minutes"
+        - "150 minutes"
+        - "180 minutes (2x90 minutes)"
+        - "Other (specify in the session format section)"
+      default: 0
+
+  - type: textarea
+    id: requirements
+    attributes:
+      label: "Required equipment/infrastructure/support"
+      description: "List any specific equipment/infrastructure or support from the local team ideally needed for the session. All rooms will have WiFi (EduRoam and guest access), as well as either a projector or a screen."
+  
+  - type: textarea
+    id: constraints
+    attributes:
+      label: "Scheduling Constraints"
+      description: "Please list any scheduling constraints (partial attendance by organizers, session ordering, session conflicts etc.)"
