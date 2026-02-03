@@ -24,7 +24,7 @@ body:
     id: content
     attributes:
       label: "Session Description"
-      description: "Provide a brief description of the session content and objectives, like you normally would in a conference abstract. Please write no more than 200 words."
+      description: "Provide a brief description of the session content and objectives, like you normally would in a conference abstract. Please write no more than 200 words, less it totally fine."
   
   - type: textarea
     id: format
@@ -54,7 +54,7 @@ body:
     id: requirements
     attributes:
       label: "Required equipment/infrastructure/support"
-      description: "List any specific equipment/infrastructure or support from the local team needed for the session (e.g., projector, whiteboard etc.)."
+      description: "List any specific equipment/infrastructure or support from the local team ideally needed for the session. All rooms will have WiFi (EduRoam and guest access), as well as either a projector or a screen."
   
   - type: textarea
     id: constraints
