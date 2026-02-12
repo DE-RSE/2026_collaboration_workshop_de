@@ -1,5 +1,8 @@
 # RSE Collaboration Workshop in Germany 2026 contribution collection
 
+![deRSE collaboration workshopbanner](https://raw.githubusercontent.com/jankapunkt/2026_collaboration_workshop_de/refs/heads/patch-1/assets/banner.png)
+
+
 👋 Welcome to the GitHub repository for contributions submissions to the RSE Collaboration Workshop 2026 in Göttingen, Germany.
 This project will be used to collect the contributions in a collaborative and open manner and to enable collaboration during the planning phase of the event.
 Contributors can see other proposed contributions in the [issue list](https://github.com/DE-RSE/2026_collaboration_workshop_de/issues), while interested can see topic or make others aware.
