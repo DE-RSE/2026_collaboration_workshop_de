@@ -19,9 +19,10 @@ Contributors can see other proposed contributions in the [issue list](https://gi
 
 ## About the workshop 💡
 
-You can find all important information about the workshop (format, topics, submission guidelines) in our [call for contributions](./call_for_contributions.md).
-
-## How to contribute? 🤔
-All necessary information on potential topics and the submission procedure can be found in the [call for contribution](./call_for_contributions-short.md).
-
-
+You can find all important information about the workshop in our [call for contributions](./call_for_contributions.md).
+This includes, among others:
+- Workshop format
+- Topics, appropriate for the workshop
+- Dates and dues
+- Submission procedure for contributions
+- Contact with the organizers
