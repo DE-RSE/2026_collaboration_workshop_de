@@ -10,7 +10,7 @@ You can view the [list of other proposed contributions](https://github.com/DE-RS
 ## Quick links 🔗
 - [Event page](https://events.hifis.net/event/3249/)
 - [List of proposed contributions](https://github.com/DE-RSE/2026_collaboration_workshop_de/issues)
-- Call for contributions: [short version](./call_for_contributions.md) and [long version](./call_for_contributions-short.md)
+- Call for contributions: [short version](./call_for_contributions-short.md) and [long version](./call_for_contributions.md)
 
 ## Timeline for submission 🕐
 
