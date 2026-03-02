@@ -35,7 +35,4 @@ Timeline for submission:
 
 ## Contact
 
-For questions about the conference or the submission process, you may either:
-* Open an issue on [the workshop repository](https://github.com/DE-RSE/2026_collaboration_workshop_de)
-* Write an email to [the organizers](mailto:collaboration-workshop-2026@de-rse.org)
-* Write in our Matrix-Channel (TODO)
+For questions about the conference or the submission process, please write an [email to the organizers](mailto:collaboration-workshop-2026@de-rse.org).
