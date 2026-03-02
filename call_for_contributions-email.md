@@ -1,0 +1,18 @@
+The Call for Contributions for Collaborations Workshop 2026 is now open!
+
+The first Collaborations Workshop 2026 of de-RSE is all about doing, not just listening. 
+Instead of classic conference talks, we focus on interactive formats that create space for real collaboration, 
+shared problem-solving, and tangible outcomes — the kind of ideas that usually start during coffee breaks and this time actually happen. ☕💡
+
+We’re looking for session ideas, collaboration formats, and lightning talks around Research Software Engineering: from software craftsmanship, education, and Open Science to AI (see also our co-located special
+Workshop on AI-supported Research Software Engineering), policy, RSE community building, and career development. Fishbowl sessions, hackathons, open discussions rounds, tutorials — you name it!
+
+If you have an idea, a challenge, or a collaboration you’d love to kick off with the community: This is your chance to shape the program and the conversations.  Submissions are open until April 15, 2026 (AOE) — and early submissions are especially welcome to spark joint ideas.
+
+👉 Details & submission via GitHub: https://github.com/DE-RSE/2026_collaboration_workshop_de
+
+Let’s collaborate for the future of #ResearchSoftwareEngineering — together! 💬🤝
+
+The workshop will take place from 23–25 September 2026 in Göttingen. Further details are available on the event website at https://events.hifis.net/event/3249/, which is continuously updated. 
+
+Stay tuned!
