@@ -9,7 +9,7 @@ shared problem-solving, and tangible outcomes — the kind of ideas that usually
 
 We’re looking for session ideas, collaboration formats, and lightning talks around **Research Software Engineering**: 
 from software craftsmanship, education, and Open Science to AI (see also our co-located special
-[Workshop on AI-supported Research Software Engineering](https://events.hifis.net/event/3249/page/968-workshop-on-ai-supported-research-software-engineering) , 
+[Workshop on AI-supported Research Software Engineering](https://events.hifis.net/event/3249/page/968-workshop-on-ai-supported-research-software-engineering)),
 policy, RSE community building, and career development. Fishbowl sessions, hackathons, open discussions rounds, tutorials — you name it!
 
 If you have an idea, a challenge, or a collaboration you’d love to kick off with the community: **this is your chance to shape the program** and the conversations. 
